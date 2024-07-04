@@ -1,0 +1,20 @@
+{
+  "name": "bst",
+  "version": "1.0.0",
+  "description": "",
+  "main": "binary-search-tree.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrmilburn/BST.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrmilburn/BST/issues"
+  },
+  "homepage": "https://github.com/jrmilburn/BST#readme"
+}
